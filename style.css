@@ -1,5 +1,6 @@
 body {
   background-color: #0d192c;
+  font-family: "Outfit";
 }
 .card-div {
   background-color: #15263f;
@@ -49,7 +50,7 @@ body {
 }
 .span-one {
   color: #8bacd9;
-  margin-left: 9px;
+  margin-left: 13px;
 }
 .border {
   border: solid white;
@@ -57,4 +58,9 @@ body {
 }
 .white-text {
   color: white;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
