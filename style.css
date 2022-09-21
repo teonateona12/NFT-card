@@ -1,6 +1,9 @@
 body {
   background-color: #0d192c;
   font-family: "Outfit";
+  height: 100vh;
+  display: flex;
+  align-items: center;
 }
 .card-div {
   background-color: #15263f;
