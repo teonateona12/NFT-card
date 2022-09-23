@@ -67,3 +67,13 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+.img-one:active {
+  filter: #00fff8;
+  opacity: 0.5;
+  filter: invert(77%) sepia(84%) saturate(717%) hue-rotate(110deg)
+    brightness(106%) contrast(105%);
+}
+.white-text:active {
+  color: #00fff8;
+}
